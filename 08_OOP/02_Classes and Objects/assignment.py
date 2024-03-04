@@ -16,7 +16,7 @@ class RightTriangle:
         
 
     def area(self):
-        # Youdo return the area which is 1/2 * base * height
+        return (1/2 ) * self.base * self.height
         pass  # Remove this pass when finished
 
     def hypotenuse(self):
