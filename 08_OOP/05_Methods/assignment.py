@@ -24,8 +24,6 @@ class Rectangle:
     def __str__(self) -> str:
         # Rectangle of base:3, height:4
         return "Rectangle of base:" + self.__base + ", height:" + self.__height
-        pass
+        
 
 
-# YOUDO>  create two rectangles.  print their base, height, perimeter, and area
-# using only the methods not the fields/property/attributes
