@@ -1,4 +1,4 @@
-class Rectangle:
+class Rectangle: 
     def __init__(self, base: float, height: float) -> None:
         if(base < 0):
             self.__base = 0
